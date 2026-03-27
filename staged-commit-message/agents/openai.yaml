@@ -1,0 +1,4 @@
+interface:
+  display_name: "Staged Commit Message"
+  short_description: "基于 git diff --staged 生成最终中文 commit message"
+  default_prompt: "Use $staged-commit-message to generate the final Chinese commit message from git diff --staged."
